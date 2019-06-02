@@ -1,0 +1,6 @@
+E:\C#Project\ChatServer\ChatServer\bin\Debug\ChatServer.exe.config
+E:\C#Project\ChatServer\ChatServer\bin\Debug\ChatServer.exe
+E:\C#Project\ChatServer\ChatServer\bin\Debug\ChatServer.pdb
+E:\C#Project\ChatServer\ChatServer\obj\Debug\ChatServer.csprojResolveAssemblyReference.cache
+E:\C#Project\ChatServer\ChatServer\obj\Debug\ChatServer.exe
+E:\C#Project\ChatServer\ChatServer\obj\Debug\ChatServer.pdb
